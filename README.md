@@ -1,7 +1,6 @@
 # lightkeima.github.io
 
 
-Credit:
-
+#Credit:
 
 Original theme: [blueface](https://github.com/thien/blueface)
