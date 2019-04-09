@@ -148,10 +148,10 @@ article {
     color: #ffffff;
 }
 .label-default {
-    background-color: #254d82
+    background-color: #2aeefc
 }
 .label-default:hover {
-    background-color: #75a0de
+    background-color: #74ded8
 }
 .label-default a:hover {
     color: #ffffff !important
