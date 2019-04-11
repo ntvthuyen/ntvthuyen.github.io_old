@@ -63,7 +63,7 @@ header h1 a:hover {
 }
 nav {
     font-weight: 200;
-    font-family: Arial, -apple-system, Roboto, Helvetica;
+    font-family: -apple-system, Roboto, Helvetica, Arial;
     text-transform: uppercase;
     margin-left: -43px;
 	margin-bottom: -20px;
@@ -187,8 +187,7 @@ li {
 }
 a {
     font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-    color: #0000000;
-	!color: #00a1bb;
+    color: #00a1bb;
     text-decoration: none;
 }
 a:hover {
