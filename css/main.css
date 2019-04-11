@@ -62,6 +62,7 @@ header h1 a:hover {
     background-color: #b91414;
 }
 nav {
+	 font: 1em -apple-system-headline, "Droid Sans Mono", Courier,Arial, mono;
     font-weight: 200;
     text-transform: uppercase;
     margin-left: -43px;
