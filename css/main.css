@@ -37,7 +37,7 @@ header {
 header h1 {
     padding-top: 1em;
     font-weight: bold;
-    font: Arial,1em -apple-system-headline, "Droid Sans Mono", Courier, mono;
+    font: 1em -apple-system-headline, "Droid Sans Mono", Courier,Arial, mono;
     text-transform: lowercase;
     margin-left: 25px;
     padding-bottom: 2.1em;
@@ -186,6 +186,7 @@ li {
 	margin-bottom: 5px;
 }
 a {
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
     color: #00a1bb;
     text-decoration: none;
 }
