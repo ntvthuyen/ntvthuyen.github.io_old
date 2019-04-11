@@ -187,7 +187,8 @@ li {
 }
 a {
     font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-    color: #00a1bb;
+    color: #0000000;
+	!color: #00a1bb;
     text-decoration: none;
 }
 a:hover {
