@@ -63,7 +63,7 @@ header h1 a:hover {
 }
 nav {
     font-weight: 200;
-    font-family: -apple-system, Roboto, Helvetica, Arial;
+    font-family: Arial, -apple-system, Roboto, Helvetica;
     text-transform: uppercase;
     margin-left: -43px;
 	margin-bottom: -20px;
