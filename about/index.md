@@ -5,7 +5,7 @@ title: About me
 
 ## About me!
 
-My name is Vinh-Thuyen. I'm a student in computer science.
+My name is Vinh-Thuyen. I'm a student of computer science.
 I love computers, games, manga, playing guitar, swimming and penguins. 
 
 ## About this blog
