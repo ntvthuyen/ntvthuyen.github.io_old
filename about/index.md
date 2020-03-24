@@ -9,8 +9,7 @@ My name is Vinh-Thuyen. I'm a student of computer science.
 I love computers, games, manga, playing guitar, swimming and penguins. 
 
 ## About this blog
-Do you see the colors of this blog? 
-This is Hatsune Miku's colors palette (´∀`)
+The blog's colors are based on Hatsune Miku's colors palette (´∀`)
 ![Hatsune Miku](https://raw.githubusercontent.com/lightkeima/lightkeima.github.io/master/images/ae68810eb597fd985c923f9f93f111a8.jpg)
 
 ## Yaaaaaaaaaa
