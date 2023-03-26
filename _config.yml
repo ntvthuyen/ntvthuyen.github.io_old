@@ -3,8 +3,8 @@ title: Light Keima
 description: A penguin loves computers.
 baseurl: "" # the subpath of your site, e.g. /blog
 
-url: "https://lightkeima.github.io/"
-github: http://github.com/lightkeima
+url: "https://ntvthuyen.github.io/"
+github: http://github.com/ntvthuyen
 highlighter: rouge
 markdown: kramdown
 permalink: /post/:title/
