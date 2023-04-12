@@ -11,17 +11,18 @@ You can pronounce my name by saying "thu" and "yen" as fast as possible. Thuyen 
 
 I'm a bachelor of computer science. 
 
-I'm currently a Research assistant at MEILab - City University of Hong Kong. 
+I'm currently a Research assistant at MEILab - City University of Hong Kong (CityU) and trying my best to get my PhD admission at CityU. 
 
-I'm trying my best to get my PhD admission at City University of Hong Kong. 
+My main research interest is Human-computer Interaction, Information and Knowledge Management. I have various knowledge in artificial intelligence, software engineering, and other computer-related-stuff.
 
-My major research interest is Human-computer Interaction, Information and Knowledge Management. 
-
-I love HNMC, computers, games, DoTA, dota 2, counter-strike, manga, playing guitar, math rock, running, swimming and penguins. 
+I love HNMC, computers, linux, coding, learning, games, DoTA, dota 2, counter-strike, manga, guitar, math rock, running, swimming and penguins. 
 
 ## About this blog
+
+This blog is gonna be a place to share my PhD journey when I officially get my admisison and go to HK. I want to improve my writing as well (English, Vietnamese, and Chinese(future :>))
+
 The blog's colors are based on Hatsune Miku's colors palette (´∀`)
-![Hatsune Miku](https://raw.githubusercontent.com/ntvthuyen/ntvthuyen.github.io/master/images/ae68810eb597fd985c923f9f93f111a8.jpg)
+<img src="[https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg](https://raw.githubusercontent.com/ntvthuyen/ntvthuyen.github.io/master/images/ae68810eb597fd985c923f9f93f111a8.jpg)" height="40%">
 
 ## Yaaaaaaaaaa
 This blog uses [blueface][github] theme.
