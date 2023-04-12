@@ -22,7 +22,7 @@ I love HNMC, computers, linux, coding, learning, games, DoTA, dota 2, counter-st
 This blog is gonna be a place to share my PhD journey when I officially get my admisison and go to HK. I want to improve my writing as well (English, Vietnamese, and Chinese(future :>))
 
 The blog's colors are based on Hatsune Miku's colors palette (´∀`)
-<img src="[https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg](https://raw.githubusercontent.com/ntvthuyen/ntvthuyen.github.io/master/images/ae68810eb597fd985c923f9f93f111a8.jpg)" height="40%">
+<img src="https://raw.githubusercontent.com/ntvthuyen/ntvthuyen.github.io/master/images/ae68810eb597fd985c923f9f93f111a8.jpg" height="40%">
 
 ## Yaaaaaaaaaa
 This blog uses [blueface][github] theme.
