@@ -3,7 +3,7 @@ title: Vinh-Thuyen
 description: A penguin loves computers.
 baseurl: "" # the subpath of your site, e.g. /blog
 
-url: "https://ntvthuyen.github.io/"
+url: "https://ntvthuyen.com/"
 github: http://github.com/ntvthuyen
 highlighter: rouge
 markdown: kramdown
